@@ -1,0 +1,7 @@
+.app {
+  margin: 0 auto;
+}
+
+form > input {
+  margin: 0 5px 0 10px;
+}
